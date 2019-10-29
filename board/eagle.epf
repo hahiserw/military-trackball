@@ -1,0 +1,24 @@
+[Eagle]
+Version="06 05 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/hahi/.eagle/lbr/con-harting-ml.lbr"
+UsedLibrary="/home/hahi/.eagle/lbr/con-lstb.lbr"
+UsedLibrary="/home/hahi/.eagle/lbr/special.lbr"
+UsedLibrary="atmel-mt.lbr"
+UsedLibrary="con-lstb.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1920 21 3839 1199"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1200"
+Window="Win_1"
