@@ -1,7 +1,10 @@
 # Military trackball
 
+## Main document - main.pdf
+
 ## Youtube demo
-[![demo](http://img.youtube.com/vi/cAlvmEIusnU/0.jpg)](http://www.youtube.com/watch?v=cAlvmEIusnU)
+[![demo01](http://img.youtube.com/vi/cAlvmEIusnU/0.jpg)](http://www.youtube.com/watch?v=cAlvmEIusnU)
+[![demo02](http://img.youtube.com/vi/nhbZiIEDlQE/0.jpg)](http://www.youtube.com/watch?v=nhbZiIEDlQE)
 
 ## Gallery
 
